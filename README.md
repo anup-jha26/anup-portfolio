@@ -18,7 +18,7 @@ This project showcases my skills, experience, and recent work in a sleek, respon
 
 ---
 
-##🧑‍💻 Getting Started Locally
+## 🧑‍💻 Getting Started Locally
 To run this project locally on your machine:
 ### 1. Clone the repository
 ```bash
@@ -38,13 +38,13 @@ npm run dev
 
 ---
 
-##🚀 Deployment
+## 🚀 Deployment
 This project is deployed using Netlify.  
 Every push to the main branch triggers an automatic deployment.
 
 ---
 
-##📬 Contact
+## 📬 Contact
 Anup Kumar Jha  
 📧 aniljha1076@gmail.com  
 🔗 LinkedIn – anup-jha26
