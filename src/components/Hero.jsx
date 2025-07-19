@@ -7,7 +7,7 @@ export default function Hero() {
       <p className="text-xl mb-6">Full Stack MERN Developer passionate about clean UIs and performant code.</p>
       <div className="space-x-4">
         <a href="#projects" className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition">View Projects</a>
-        <a href="/resume.pdf" download className="border border-blue-600 text-blue-600 px-6 py-3 rounded-full hover:bg-blue-100 dark:hover:bg-gray-700">Download Resume</a>
+        <a href="https://drive.google.com/file/d/1AUU-75KSEetj3Rvc8AhP8QKdGUGOi194" download className="border border-blue-600 text-blue-600 px-6 py-3 rounded-full hover:bg-blue-100 dark:hover:bg-gray-700">Download Resume</a>
       </div>
     </section>
   );
