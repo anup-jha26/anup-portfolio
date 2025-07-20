@@ -22,7 +22,6 @@ const projects = [
   {
     title: "Spotify Clone",
     description: "Frontend replica of Spotify using HTML and CSS.",
-    live: "https://spotify-clone26.netlify.app/",
     code: "https://github.com/anup-jha26/Spotify-Clone"
   }
 ];
