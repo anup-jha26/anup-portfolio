@@ -16,7 +16,14 @@ const projects = [
   {
     title: "Simon Game",
     description: "JavaScript-based memory game with scoring.",
+    live: "https://simon-says-game26.netlify.app/",
     code: "https://github.com/anup-jha26/simon-game"
+  },
+  {
+    title: "Spotify Clone",
+    description: "Frontend replica of Spotify using HTML and CSS.",
+    live: "https://spotify-clone26.netlify.app/",
+    code: "https://github.com/anup-jha26/Spotify-Clone"
   }
 ];
 
